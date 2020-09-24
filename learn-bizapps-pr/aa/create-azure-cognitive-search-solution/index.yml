@@ -1,3 +1,4 @@
+### YamlMime:Module
 uid: learn.wwl.create-azure-cognitive-search-solution
 metadata:
   title: Create an Azure Cognitive Search solution
@@ -26,7 +27,7 @@ roles:
 - student
 products:
 - azure-storage
-- test
+- test-products
 units:
 - learn.wwl.create-azure-cognitive-search-solution.introduction
 - learn.wwl.create-azure-cognitive-search-solution.get-ready-to-develop
